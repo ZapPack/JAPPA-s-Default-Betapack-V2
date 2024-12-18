@@ -3,7 +3,7 @@
 Textures originally created by **Jasper Boerstra**<br>
 Adaptations and quality of life changes by ZapPack (ex. new wood types)
 
-![](https://i.imgur.com/FvO5eiZ.gif)
+![V2](https://github.com/user-attachments/assets/b478725a-284b-4897-8110-3beed62a4180)
 
 ### Other Ports
 V1 -> https://github.com/ZapPack/JAPPA-s-Default-Betapack-V1<br>
